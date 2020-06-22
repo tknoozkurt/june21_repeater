@@ -6,6 +6,8 @@ public class MainClass extends ThirdClass  {
     SecondClass obj=new SecondClass();
     obj.datalar();
     variabllar();
+    System.out.println("featuere");
+    
     System.out.println("saat kac oldu");
     MainClass mainobj=new MainClass();
     System.out.println(mainobj.getSatislar());
